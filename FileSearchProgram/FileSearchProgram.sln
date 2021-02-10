@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.29709.97
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "FileSearchProgram", "FileSearchProgram.csproj", "{C3017667-AAC4-48FA-805C-7D91368FEAF3}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Search_Method_Events", "..\Search_Method_Events\Search_Method_Events.csproj", "{AAB356EC-4A03-409B-A531-B526B6E4AFDA}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{C3017667-AAC4-48FA-805C-7D91368FEAF3}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{C3017667-AAC4-48FA-805C-7D91368FEAF3}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{C3017667-AAC4-48FA-805C-7D91368FEAF3}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{C3017667-AAC4-48FA-805C-7D91368FEAF3}.Release|Any CPU.Build.0 = Release|Any CPU
+		{AAB356EC-4A03-409B-A531-B526B6E4AFDA}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{AAB356EC-4A03-409B-A531-B526B6E4AFDA}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{AAB356EC-4A03-409B-A531-B526B6E4AFDA}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{AAB356EC-4A03-409B-A531-B526B6E4AFDA}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {6BFBE652-8496-4405-A8D3-18501E7A1EC2}
+	EndGlobalSection
+EndGlobal

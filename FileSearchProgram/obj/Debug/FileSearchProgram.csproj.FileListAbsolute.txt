@@ -1,0 +1,43 @@
+C:\Users\DekelA\Desktop\FileSearchProgram\obj\Debug\FileSearchProgram.csprojAssemblyReference.cache
+C:\Users\DekelA\Desktop\FileSearchProgram\bin\Debug\FileSearchProgram.exe.config
+C:\Users\DekelA\Desktop\FileSearchProgram\bin\Debug\FileSearchProgram.exe
+C:\Users\DekelA\Desktop\FileSearchProgram\bin\Debug\FileSearchProgram.pdb
+C:\Users\DekelA\Desktop\FileSearchProgram\bin\Debug\Search_Method_Events.dll
+C:\Users\DekelA\Desktop\FileSearchProgram\bin\Debug\EntityFramework.dll
+C:\Users\DekelA\Desktop\FileSearchProgram\bin\Debug\Search_Method_Events.pdb
+C:\Users\DekelA\Desktop\FileSearchProgram\bin\Debug\Search_Method_Events.dll.config
+C:\Users\DekelA\Desktop\FileSearchProgram\bin\Debug\EntityFramework.xml
+C:\Users\DekelA\Desktop\FileSearchProgram\obj\Debug\FileSearchProgram.csproj.CopyComplete
+C:\Users\DekelA\Desktop\FileSearchProgram\obj\Debug\FileSearchProgram.exe
+C:\Users\DekelA\Desktop\FileSearchProgram\obj\Debug\FileSearchProgram.pdb
+C:\Users\DekelA\Desktop\FileSearchProgram\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\DekelA\Desktop\FileSearchProgram\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\DekelA\Desktop\SearchProject\FileSearchProgram\bin\Debug\FileSearchProgram.exe.config
+C:\Users\DekelA\Desktop\SearchProject\FileSearchProgram\bin\Debug\FileSearchProgram.exe
+C:\Users\DekelA\Desktop\SearchProject\FileSearchProgram\bin\Debug\FileSearchProgram.pdb
+C:\Users\DekelA\Desktop\SearchProject\FileSearchProgram\bin\Debug\EntityFramework.dll
+C:\Users\DekelA\Desktop\SearchProject\FileSearchProgram\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\DekelA\Desktop\SearchProject\FileSearchProgram\bin\Debug\Search_Method_Events.dll
+C:\Users\DekelA\Desktop\SearchProject\FileSearchProgram\bin\Debug\EntityFramework.xml
+C:\Users\DekelA\Desktop\SearchProject\FileSearchProgram\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\DekelA\Desktop\SearchProject\FileSearchProgram\bin\Debug\Search_Method_Events.pdb
+C:\Users\DekelA\Desktop\SearchProject\FileSearchProgram\bin\Debug\Search_Method_Events.dll.config
+C:\Users\DekelA\Desktop\SearchProject\FileSearchProgram\obj\Debug\FileSearchProgram.csprojAssemblyReference.cache
+C:\Users\DekelA\Desktop\SearchProject\FileSearchProgram\obj\Debug\FileSearchProgram.csproj.CopyComplete
+C:\Users\DekelA\Desktop\SearchProject\FileSearchProgram\obj\Debug\FileSearchProgram.exe
+C:\Users\DekelA\Desktop\SearchProject\FileSearchProgram\obj\Debug\FileSearchProgram.pdb
+D:\Programming\Search Project\FileSearchProgram\bin\Debug\FileSearchProgram.exe.config
+D:\Programming\Search Project\FileSearchProgram\bin\Debug\FileSearchProgram.exe
+D:\Programming\Search Project\FileSearchProgram\bin\Debug\FileSearchProgram.pdb
+D:\Programming\Search Project\FileSearchProgram\bin\Debug\EntityFramework.dll
+D:\Programming\Search Project\FileSearchProgram\bin\Debug\EntityFramework.SqlServer.dll
+D:\Programming\Search Project\FileSearchProgram\bin\Debug\Search_Method_Events.dll
+D:\Programming\Search Project\FileSearchProgram\bin\Debug\EntityFramework.xml
+D:\Programming\Search Project\FileSearchProgram\bin\Debug\EntityFramework.SqlServer.xml
+D:\Programming\Search Project\FileSearchProgram\bin\Debug\Search_Method_Events.pdb
+D:\Programming\Search Project\FileSearchProgram\bin\Debug\Search_Method_Events.dll.config
+D:\Programming\Search Project\FileSearchProgram\obj\Debug\FileSearchProgram.csprojAssemblyReference.cache
+D:\Programming\Search Project\FileSearchProgram\obj\Debug\FileSearchProgram.csproj.CoreCompileInputs.cache
+D:\Programming\Search Project\FileSearchProgram\obj\Debug\FileSearchProgram.csproj.CopyComplete
+D:\Programming\Search Project\FileSearchProgram\obj\Debug\FileSearchProgram.exe
+D:\Programming\Search Project\FileSearchProgram\obj\Debug\FileSearchProgram.pdb

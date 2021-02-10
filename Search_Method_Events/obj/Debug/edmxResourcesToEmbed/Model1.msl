@@ -1,0 +1,22 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Mapping Space="C-S" xmlns="http://schemas.microsoft.com/ado/2009/11/mapping/cs">
+  <EntityContainerMapping StorageEntityContainer="SearchDataBaseModelStoreContainer" CdmEntityContainer="SearchDataBaseEntities">
+    <EntitySetMapping Name="resultDatas">
+      <EntityTypeMapping TypeName="SearchDataBaseModel.resultData">
+        <MappingFragment StoreEntitySet="resultData">
+          <ScalarProperty Name="resultpath" ColumnName="resultpath" />
+          <ScalarProperty Name="Id" ColumnName="Id" />
+        </MappingFragment>
+      </EntityTypeMapping>
+    </EntitySetMapping>
+    <EntitySetMapping Name="searchDatas">
+      <EntityTypeMapping TypeName="IsTypeOf(SearchDataBaseModel.searchData)">
+        <MappingFragment StoreEntitySet="searchData">
+          <ScalarProperty Name="filename" ColumnName="filename" />
+          <ScalarProperty Name="path" ColumnName="path" />
+          <ScalarProperty Name="Id" ColumnName="Id" />
+        </MappingFragment>
+      </EntityTypeMapping>
+    </EntitySetMapping>
+  </EntityContainerMapping>
+</Mapping>
